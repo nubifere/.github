@@ -6,4 +6,4 @@ Free, open-source tools for working with your own data.
 
 Issues and pull requests are welcome in any of them.
 <img src="line.png" alt="" width="100%" height="3">
-Made by [Claudia Kitova](https://github.com/claudiakitova) · [nubifere.com](https://nubifere.com)
+Made by [Claudia Kitova](https://github.com/claudiakitova) · [kitova.me](https://kitova.me/)
