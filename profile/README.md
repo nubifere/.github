@@ -1,5 +1,3 @@
-<img src="banner.png" alt="nubifere: tools for working with your own data" width="100%">
-
 ### Tools
 
 - **[lifekeeper](https://github.com/nubifere/lifekeeper)**: reclaim your data and start your digital self, with everything about you in one place on your own computer. [Download](https://github.com/nubifere/lifekeeper/releases/latest)
