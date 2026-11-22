@@ -12,4 +12,4 @@
 
 Issues and pull requests are welcome in any of them.
 
-Made by [Claudia Kitova](https://github.com/claudiakitova) · [nubifere.com](https://nubifere.com/) · [kitova.me](https://kitova.me/)
+[nubifere.com](https://nubifere.com/)
