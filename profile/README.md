@@ -12,4 +12,6 @@
 
 Issues and pull requests are welcome in any of them.
 
+<img src="line.png" alt="" width="100%" height="3">
+
 [nubifere.com](https://nubifere.com/)
