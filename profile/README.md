@@ -10,8 +10,8 @@
 - **[physics-talks](https://github.com/claudiakitova/physics-talks)**: a chatbot that answers condensed matter physics questions from a library of scientific papers. [Try it](https://physics-talks.streamlit.app)
 - **[data-stories](https://github.com/claudiakitova/data-stories)**: real-life questions answered with data, from crypto forecasts and app reviews to life support in space
 
-Issues and pull requests are welcome in any of them.
-
 <img src="line.png" alt="" width="100%" height="3">
+
+Issues and pull requests are welcome in all the repositories.
 
 [nubifere.com](https://nubifere.com/)
