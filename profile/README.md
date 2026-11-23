@@ -1,8 +1,8 @@
 ### Tools
 
-- **[lifekeeper](https://github.com/nubifere/lifekeeper)**: reclaim your data and start your digital self, with everything about you in one place on your own computer. [Download](https://github.com/nubifere/lifekeeper/releases/latest)
-- **[peekdata](https://github.com/nubifere/peekdata)**: open data files in your browser to browse, filter, profile, query and chart them, or ask questions in plain language
-- **[ask-your-db](https://github.com/nubifere/ask-your-db)**: upload documents, spreadsheets, slides or emails and ask questions about them, with sources. [Try it](https://ask-your-db.streamlit.app)
+- **[lifekeeper](https://github.com/claudiakitova/lifekeeper)**: reclaim your data and start your digital self, with everything about you in one place on your own computer. [Download](https://github.com/claudiakitova/lifekeeper/releases/latest)
+- **[peekdata](https://github.com/claudiakitova/peekdata)**: open data files in your browser to browse, filter, profile, query and chart them, or ask questions in plain language
+- **[ask-your-db](https://github.com/claudiakitova/ask-your-db)**: upload documents, spreadsheets, slides or emails and ask questions about them, with sources. [Try it](https://ask-your-db.streamlit.app)
 
 ### Projects
 
